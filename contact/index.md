@@ -21,8 +21,8 @@ Drop me a line?
       <p>
         <label for="requests">Request:</label> 
         <select name="requests" id="requests">
-          <option value="GraphicDes">Graphic Design</option>
-          <option value="WebDev">Web Development</option>
+          <option value="Graphic Design">Graphic Design</option>
+          <option value="Web Development">Web Development</option>
           </select>
       </p>
       <p>
